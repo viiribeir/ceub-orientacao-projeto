@@ -9,9 +9,11 @@ import java.util.stream.Stream;
 public class Java8Features {
     public static void main(String[] args) {
 
+        // Não sei oq tá de errado
         List<Integer> idades = Arrays.asList(1,2,3);
         List<String> novaListaString = Arrays.of();
 
+        // Nem aqui
         for(Integer id : idades){
             novaListaString.add(id.toString("Idade: " + id));
         }
