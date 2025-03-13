@@ -6,6 +6,10 @@ import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+/*Eu não entendo o que esta parte quer dizer e,
+ particularmente, não acho que estamos no nível 
+ para entender esses métodos... */
+
 public class Java8Features {
     public static void main(String[] args) {
 
